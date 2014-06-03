@@ -1,19 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/2014/06/03/hello-world/</loc>
+        <loc>http://Mudmen.github.io/blog/2014/06/03/hello-world/</loc>
         <lastmod>2014-06-03T20:54:33+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2014-06-03T20:54:33+08:00</lastmod>
+        <loc>http://Mudmen.github.io/blog/2014/06/03/swift/</loc>
+        <lastmod>2014-06-03T21:13:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2014-06-03T20:54:33+08:00</lastmod>
+        <loc>http://Mudmen.github.io/blog/archives/</loc>
+        <lastmod>2014-06-03T21:13:13+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/robots.txt</loc>
+        <loc>http://Mudmen.github.io/</loc>
+        <lastmod>2014-06-03T21:13:13+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Mudmen.github.io/robots.txt</loc>
         <lastmod>2014-06-03T20:53:50+08:00</lastmod>
     </url>
 </urlset>

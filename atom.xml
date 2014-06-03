@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-06-03T20:55:19+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[泥匠工作室的博客]]></title>
+  <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
+  <link href="http://Mudmen.github.io/"/>
+  <updated>2014-06-03T21:14:13+08:00</updated>
+  <id>http://Mudmen.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Mudmen]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
+    <title type="html"><![CDATA[Swift]]></title>
+    <link href="http://Mudmen.github.io/blog/2014/06/03/swift/"/>
+    <updated>2014-06-03T21:13:13+08:00</updated>
+    <id>http://Mudmen.github.io/blog/2014/06/03/swift</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/blog/2014/06/03/hello-world/"/>
+    <link href="http://Mudmen.github.io/blog/2014/06/03/hello-world/"/>
     <updated>2014-06-03T20:54:33+08:00</updated>
-    <id>http://yoursite.com/blog/2014/06/03/hello-world</id>
+    <id>http://Mudmen.github.io/blog/2014/06/03/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
