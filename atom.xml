@@ -4,7 +4,7 @@
   <title><![CDATA[泥匠工作室的博客]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-06-04T20:38:52+08:00</updated>
+  <updated>2014-06-12T11:40:09+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[联系发blog]]></title>
+    <link href="http://Mudmen.github.io/blog/2014/06/12/lian-xi-fa-blog/"/>
+    <updated>2014-06-12T11:38:41+08:00</updated>
+    <id>http://Mudmen.github.io/blog/2014/06/12/lian-xi-fa-blog</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Swift 笔记]]></title>
