@@ -4,7 +4,7 @@
   <title><![CDATA[泥匠工作室的博客]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-06-13T01:48:53+08:00</updated>
+  <updated>2014-07-21T16:47:09+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post_test]]></title>
+    <link href="http://Mudmen.github.io/blog/2014/07/21/post-test/"/>
+    <updated>2014-07-21T16:45:53+08:00</updated>
+    <id>http://Mudmen.github.io/blog/2014/07/21/post-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[改编图标]]></title>
+    <link href="http://Mudmen.github.io/blog/2014/06/13/gai-bian-tu-biao/"/>
+    <updated>2014-06-13T13:22:12+08:00</updated>
+    <id>http://Mudmen.github.io/blog/2014/06/13/gai-bian-tu-biao</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[上个厕所睡觉了]]></title>
