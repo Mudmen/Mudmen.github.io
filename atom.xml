@@ -4,7 +4,7 @@
   <title><![CDATA[泥匠工作室的博客]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-07-21T16:47:09+08:00</updated>
+  <updated>2014-07-21T20:06:00+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[博客中加入评论功能]]></title>
+    <link href="http://Mudmen.github.io/blog/2014/07/21/bo-ke-zhong-jia-ru-ping-lun-gong-neng/"/>
+    <updated>2014-07-21T20:05:20+08:00</updated>
+    <id>http://Mudmen.github.io/blog/2014/07/21/bo-ke-zhong-jia-ru-ping-lun-gong-neng</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Post_test]]></title>
