@@ -4,7 +4,7 @@
   <title><![CDATA[泥匠工作室的博客]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-07-22T19:35:04+08:00</updated>
+  <updated>2014-07-22T19:39:20+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -45,8 +45,6 @@ comments: true</p>
     disqus_short_name: Mudmen //你申请的site
     disqus_show_comment_count: true
 </code></pre>
-
-
 
 ]]></content>
   </entry>
