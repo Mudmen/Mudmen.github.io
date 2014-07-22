@@ -4,7 +4,7 @@
   <title><![CDATA[泥匠工作室的博客]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-07-22T19:30:17+08:00</updated>
+  <updated>2014-07-22T19:31:56+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -33,6 +33,8 @@
 title: &ldquo;博客中加入评论功能&rdquo;
 date: 2014-07-21 20:05:20 +0800</p>
 
+<hr />
+
 <p>先到Disqus上申请一个site</p>
 
 <p>然后直接在_config.yml 中找到Disqus
@@ -44,6 +46,8 @@ date: 2014-07-21 20:05:20 +0800</p>
     disqus_show_comment_count: true
 </code></pre>
 
+
+<hr />
 
 <p>comments: true</p>
 
