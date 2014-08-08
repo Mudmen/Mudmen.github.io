@@ -4,7 +4,7 @@
   <title><![CDATA[Mudmen]]></title>
   <link href="http://Mudmen.github.io/atom.xml" rel="self"/>
   <link href="http://Mudmen.github.io/"/>
-  <updated>2014-08-08T17:34:26+08:00</updated>
+  <updated>2014-08-08T18:46:32+08:00</updated>
   <id>http://Mudmen.github.io/</id>
   <author>
     <name><![CDATA[Mudmen]]></name>
@@ -112,7 +112,7 @@ Bitbucket的好处：
     <link href="http://Mudmen.github.io/blog/2014/06/03/hello-world/"/>
     <updated>2014-06-03T20:54:33+08:00</updated>
     <id>http://Mudmen.github.io/blog/2014/06/03/hello-world</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>测试更新</p>
 ]]></content>
   </entry>
   
